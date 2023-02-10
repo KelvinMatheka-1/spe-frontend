@@ -4,8 +4,8 @@ import { useHistory } from "react-router-dom";
 import Header from "./Header";
 import LandingBrands from "./LandingBrands";
 import LandingMakeOwn from "./LandingMakeOwn";
-import LandingSponsors from "./LandingSponsors";
-import PurpleSearchBox from "./PurpleSearchBox";
+// import LandingSponsors from "./LandingSponsors";
+// import PurpleSearchBox from "./PurpleSearchBox";
 import UpcomingEvents from "./UpcomingEvents";
 
 function LandingPage({ events, sponsors }) {
@@ -18,10 +18,10 @@ function LandingPage({ events, sponsors }) {
   return (
     <div className="">
       <Header handleToEvents={handleToEvents} />
-      <PurpleSearchBox />
+      {/* <PurpleSearchBox /> */}
       <UpcomingEvents events={events}/>
       <div className="mx-8">
-        <LandingSponsors sponsors={sponsors}/>
+        {/* <LandingSponsors sponsors={sponsors}/> */}
         <LandingMakeOwn />
         <LandingBrands />
       </div>
