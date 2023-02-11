@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/css/main.b230dc8a.css",
+    "main.js": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/js/main.6353f345.js",
+    "static/js/768.3dfa9d24.chunk.js": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/js/768.3dfa9d24.chunk.js",
+    "static/media/ticket.jpg": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/media/ticket.8f3e3c57a80022eb2d58.jpg",
+    "index.html": "/http//:kelvinmatheka-1.github.io/spe-frontend/index.html",
+    "main.b230dc8a.css.map": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/css/main.b230dc8a.css.map",
+    "main.6353f345.js.map": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/js/main.6353f345.js.map",
+    "768.3dfa9d24.chunk.js.map": "/http//:kelvinmatheka-1.github.io/spe-frontend/static/js/768.3dfa9d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b230dc8a.css",
+    "static/js/main.6353f345.js"
+  ]
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[768],{768:function(e,s,c){c.r(s);c(791);var t=c(184);s.default=function(){return(0,t.jsx)("img",{src:"assets/pexels.jpg",alt:"header pic",className:"w-full h-screen object-cover brightness-[20%]"})}}}]);
+//# sourceMappingURL=768.3dfa9d24.chunk.js.map
