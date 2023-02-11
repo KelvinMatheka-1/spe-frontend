@@ -1,4 +1,5 @@
 {
+  
   "name": "client",
   "proxy": "https://spebackend-production.up.railway.app/",
   "version": "0.1.0",
