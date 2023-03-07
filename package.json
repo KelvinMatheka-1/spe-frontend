@@ -1,7 +1,6 @@
 {
-  "homepage": "http//:kelvinmatheka-1.github.io/spe-frontend",
   "name": "client",
-  "proxy": "https://spebackend-production.up.railway.app/",
+  "proxy": "https://spebackend-production.up.railway.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +18,7 @@
   },
   "scripts": {
     "start": "PORT=4000 react-scripts start",
-    "predeploy": "npm rub build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
     "build-tailwindcss": "tailwindcss -i ./src/tailwindcss/input.css -o ./src/tailwindcss/output.css",
     "watch-tailwindcss": "tailwindcss -i ./src/tailwindcss/input.css -o ./src/tailwindcss/output.css --watch",
