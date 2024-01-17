@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://stormy-fjord-99092.herokuapp.com",
+  "proxy": "https://stormy-fjord-99092-092eda67f97f.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
