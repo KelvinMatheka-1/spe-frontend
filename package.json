@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://spebackend-production.up.railway.app",
+  "proxy": "https://stormy-fjord-99092.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
